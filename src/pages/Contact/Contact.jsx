@@ -15,7 +15,7 @@ const Contact = () => {
   return (
     <>
     <Header title="Get In Touch" image={HeaderImage}>
-       Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores beatae iure reprehenderit ut eos facere facilis quam voluptate? Perspiciatis, est?
+       Here you can contact us by dropping message in the below mentioned links.
     </Header>
     <section className='contact'>
    <div className="container contact__container">

@@ -11,7 +11,7 @@ const Plans = () => {
   return (
     <>
     <Header title="Plans" image={HeaderImage}>
-      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore, voluptatem excepturi rem cum magnam quae minus repellendus ex adipisci ipsa!
+      In this section here are our plans regarding our Membership but are Unavailable this time.
     </Header>
     <section className='plans'>
       <div className="container plans__container">

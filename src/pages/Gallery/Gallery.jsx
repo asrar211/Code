@@ -11,7 +11,7 @@ const Gallery = () => {
   return (
     <>
     <Header title="Our Works" image={HeaderImage}>
-      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fuga harum numquam earum itaque quia ipsam qui fugit doloremque, dolorum aliquam.
+      Here are some of our works made out of scrath from latest Technologies
     </Header>
     <section className="programs">
         <div className="container programs__container">

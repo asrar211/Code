@@ -13,7 +13,7 @@ const Trainers = () => {
   return (
     <>
     <Header title="Our Team" image={HeaderImage}>
-      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex, nihil molestiae perferendis iste molestias laboriosam ducimus delectus expedita rerum accusamus?
+      We are a group of people from Kashmir valley to bring innovations to next level.
     </Header>
     <section className='trainers'>
       <div className="container trainers__container">

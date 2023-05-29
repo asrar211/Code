@@ -10,7 +10,7 @@ const About = () => {
   return (
     <>
     <Header title="About Us" image={HeaderImage}>
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, corrupti! Ratione asperiores harum tenetur perferendis eligendi nemo recusandae id consequuntur!
+    Developer's Community. We deal with the all kinds of Web Development Projects and much more with the help of best Developers of the Valley.
     </Header>
 
     <section className='about__story'>

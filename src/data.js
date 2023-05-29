@@ -272,21 +272,21 @@ export const trainers = [
         id: 1,
         image: Trainer1,
         name: 'Mohammad Asrar',
-        job: 'React Developer & AI Specialist',
+        job: 'Software Engineer',
         socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
     },
     {
         id: 2,
         image: Trainer2,
         name: 'Imtiyaz Hussain',
-        job: 'Software Developer & Cybersecurity Expert',
+        job: 'Developer',
         socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
     },
     {
         id: 3,
         image: Trainer3,
         name: 'Mohsin Hassan',
-        job: 'Data Scientist & App Developer',
+        job: 'Developer',
         socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
     }
 ]
